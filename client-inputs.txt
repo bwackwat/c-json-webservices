@@ -1,0 +1,3 @@
+{"token":"sgs5fgh56"
+{"token":"sgs5fgh56","username":"'bwackwat','blogdata':'my post data yay'"}
+{"route":"/login","username":"'bwackwat','blogdata':'my post data yay'"}
